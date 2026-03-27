@@ -40,7 +40,6 @@ Databases & Tools
 </div>
 
 ⚡ Fun Fact: Between coding sessions, you'll probably find me exploring the historic streets of Meknes or coordinating local charity initiatives! -->
-
 # Hi there, I'm Fadoua! 👋
 
 <div align="center">
@@ -54,9 +53,9 @@ I'm a **Full-Stack Developer** and **Cloud Computing Specialist** based in Moroc
 **What drives me:**
 - 💻 Crafting sleek UI/UX with React & Tailwind CSS
 - ☁️ Designing robust cloud architectures on AWS
-- 🤝 Coordinating community-driven projects (like "Gift a Smile")
+- 🤝 Coordinating community-driven projects
 - 📈 Maintaining a disciplined mindset to master new technologies
-- 🇩🇪 Currently learning German (B2 Level)
+- 🚀 Always building and experimenting with new stacks
 
 ---
 
@@ -71,10 +70,12 @@ I'm a **Full-Stack Developer** and **Cloud Computing Specialist** based in Moroc
 ### **Frontend & Design**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=awsamplify&logoColor=white)
 
@@ -93,7 +94,7 @@ I'm a **Full-Stack Developer** and **Cloud Computing Specialist** based in Moroc
 
 ```typescript
 const currentFocus = {
-  learning: ["German (B2 Level Preparation)", "Advanced AWS Services"],
-  building: ["Salon Management System", "Gift a Smile Platform"],
+  learning: ["Advanced AWS Architectures", "Modern DevOps Practices"],
+  building: ["Scalable Web Applications", "Cloud-Native Solutions"],
   status: "Discipline Mode: On 🚀"
 };
