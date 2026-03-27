@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**boumazian/Boumazian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Hi there, I'm Fadoua! 👋
+Hi there, I'm Fadoua! 👋
 <div align="center">
 <img src="" alt="Typing SVG" />
 </div>
@@ -48,10 +40,3 @@ Databases & Tools
 </div>
 
 ⚡ Fun Fact: Between coding sessions, you'll probably find me exploring the historic streets of Meknes or coordinating local charity initiatives!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
